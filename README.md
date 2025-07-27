@@ -1,5 +1,3 @@
-# Firebase Studio
+# Datamind Innovators
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Empowering Teachers in Multi-Grade Classrooms
